@@ -14,11 +14,6 @@ The course mentioned above uses Matlab as its primary programming language. Howe
 
 * Learn Python here: [Lectures by Sentdex](https://pythonprogramming.net/)
 
-To implement the machine learning algorithms in Python, learn to use the following python modules:
-
-* Numpy and Pandas: Used for advanced matrix manipulation and linear algebra. [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-* Matplotlib: Used for visualization, plotting and drawing stuff. [Introductory course](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) \| [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
-
 ## Common ML Algorithms
 
 Having learned python, learn and implement various ML algorithms from scratch in Python to get used to the modules mentioned above. Given below are brief overviews of most common ML algorithms.
@@ -47,6 +42,8 @@ Once you have mastered the basics, there's no need to reinvent the wheel and spe
   speeds up computation manifolds for neural networks and makes it easy to implement them. `Keras` is built on top of TensorFlow and
 
   makes it even easier to implement neural networks in Python. [Tutorials on the official TensorFlow site](https://www.tensorflow.org/tutorials/) \| [Keras Documentation](http://keras.io/)
+  
+* `PyTorch` : PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing. [Tutorials on the official PyTorch site](https://pytorch.org/tutorials/)
 
 * `OpenCV`: This one is used for another field of AI, **Computer Vision** \(deals with working on image data\)
 
@@ -78,7 +75,7 @@ Almost a requirement for any subfield of AI. Master it first.
 
   \(and all the rest of the courses in the AML\) are built for advanced learners and have challenging exercises. You will
 
-  be equipped with the latest techniques in deep learning and a lot of practical implementation knowledge after completing this one. _Highly Recommended_. Enroll here: [Intro to Deep Learning](https://www.coursera.org/learn/intro-to-deep-learning/)
+  be equipped with the latest techniques in deep learning and a lot of practical implementation knowledge after completing this one. _Highly Recommended_. Enroll here: [Intro to Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 #### Further resources
 
@@ -97,11 +94,11 @@ Almost a requirement for any subfield of AI. Master it first.
 
 The field of AI specializing in understanding text and voice data. Used in chatbots, personal assistants, is one of the fastest growing fields of AI. Resources:
 
-* Fifth course of AML specialization: [Natural Language Processing](https://www.coursera.org/learn/language-processing). Like the rest of the courses in the specialization,
+* Fifth course of AML specialization: [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing). Like the rest of the courses in the specialization,
 
   this one's a good course for getting started with NLP.
 
-* Deep Learning for NLP: [Stanford CS224D](http://cs224d.stanford.edu/). A Stanford course on Natural Language Processing.
+* Deep Learning for NLP: [Stanford CS224D](http://web.stanford.edu/class/cs224n/). A Stanford course on Natural Language Processing.
 * NLTK Library: [NLTK](http://www.nltk.org/). Widely used library for NLP applications.
 
 ### Reinforcement Learning
@@ -123,8 +120,14 @@ Easy-to-follow blogs on machine learning:
 * [Machine Learning Mastery](https://machinelearningmastery.com/)
 * [Analytics Vidhya](https://www.analyticsvidhya.com/)
 
-A few more interesting courses:
 
-* The whole of AML specialization: This specialization covers almost all of the chief topics in AI. A must. Enroll [here](https://www.coursera.org/specializations/aml).
-* Fast.ai's Machine Learning for coders: Recently launched, this course dives into the implementation of machine learning techniques, like its predecessor. Start learning [here](http://course.fast.ai/ml).
+mlcourse.ai : 
+
+mlcourse.ai is an open Machine Learning course, this course has a perfect balance between theory and practice. Thus, the course meets you with math formulae in lectures, and a lot of practice in a form of assignments and Kaggle Inclass competitions. Currently, the course is in a self-paced mode. Here we guide you through the self-paced mlcourse.ai. [mlcourse.ai](https://mlcourse.ai/book/index.html)
+
+
+To implement the machine learning algorithms in Python, learn to use the following python modules:
+
+* Numpy and Pandas: Used for advanced matrix manipulation and linear algebra. [Course](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+* Matplotlib: Used for visualization, plotting and drawing stuff. [Introductory course](https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python) \| [Reference](https://www.labri.fr/perso/nrougier/teaching/matplotlib/)
 
